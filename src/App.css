@@ -1,0 +1,17 @@
+.productList {
+  overflow: hidden;
+}
+
+.productList li {
+  display: inline-block;
+  text-align: center;
+}
+
+.productList li img {
+  width: 50%;
+  height: auto;
+}
+
+.pagination button {
+  color: #212529;
+}

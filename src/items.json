@@ -1,0 +1,423 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "brand": "adidas",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/adidas.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 2,
+      "brand": "asics",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/asics.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 3,
+      "brand": "brook",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/brook.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 4,
+      "brand": "converse",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/converse.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 5,
+      "brand": "dc",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/dc.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 6,
+      "brand": "fallen",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/fallen.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 7,
+      "brand": "mizuno",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/mizuno.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 8,
+      "brand": "nb",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/nb.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 9,
+      "brand": "nike",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/nike.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 10,
+      "brand": "puma",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/puma.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 11,
+      "brand": "reebok",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/reebok.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 12,
+      "brand": "ua",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/ua.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 13,
+      "brand": "vans",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/vans.jpg",
+      "price": "$$$$"
+    },
+
+    {
+      "id": 14,
+      "brand": "adidas",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/adidas.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 15,
+      "brand": "asics",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/asics.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 16,
+      "brand": "brook",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/brook.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 17,
+      "brand": "converse",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/converse.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 18,
+      "brand": "dc",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/dc.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 19,
+      "brand": "fallen",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/fallen.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 20,
+      "brand": "mizuno",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/mizuno.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 21,
+      "brand": "nb",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/nb.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 22,
+      "brand": "nike",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/nike.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 23,
+      "brand": "puma",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/puma.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 24,
+      "brand": "reebok",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/reebok.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 25,
+      "brand": "ua",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/ua.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 26,
+      "brand": "vans",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/vans.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 1,
+      "brand": "adidas",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/adidas.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 2,
+      "brand": "asics",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/asics.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 3,
+      "brand": "brook",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/brook.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 4,
+      "brand": "converse",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/converse.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 5,
+      "brand": "dc",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/dc.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 6,
+      "brand": "fallen",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/fallen.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 7,
+      "brand": "mizuno",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/mizuno.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 8,
+      "brand": "nb",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/nb.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 9,
+      "brand": "nike",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/nike.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 10,
+      "brand": "puma",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/puma.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 11,
+      "brand": "reebok",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/reebok.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 12,
+      "brand": "ua",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/ua.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 13,
+      "brand": "vans",
+      "type": "shirt",
+      "size": ["S", "M", "L"],
+      "image": "/images/vans.jpg",
+      "price": "$$$$"
+    },
+
+    {
+      "id": 14,
+      "brand": "adidas",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/adidas.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 15,
+      "brand": "asics",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/asics.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 16,
+      "brand": "brook",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/brook.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 17,
+      "brand": "converse",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/converse.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 18,
+      "brand": "dc",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/dc.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 19,
+      "brand": "fallen",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/fallen.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 20,
+      "brand": "mizuno",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/mizuno.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 21,
+      "brand": "nb",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/nb.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 22,
+      "brand": "nike",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/nike.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 23,
+      "brand": "puma",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/puma.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 24,
+      "brand": "reebok",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/reebok.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 25,
+      "brand": "ua",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/ua.jpg",
+      "price": "$$$$"
+    },
+    {
+      "id": 26,
+      "brand": "vans",
+      "type": "pants",
+      "size": ["S", "M", "L"],
+      "image": "/images/vans.jpg",
+      "price": "$$$$"
+    }
+  ],
+  "product": []
+}
